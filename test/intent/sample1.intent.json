@@ -1,0 +1,7 @@
+{
+  "utterance": "Hallo wereld",
+  "intent_type": "HalloWereldIntent",
+  "intent": {
+    "HalloWereldKeyword": "hallo wereld"
+  }
+}
